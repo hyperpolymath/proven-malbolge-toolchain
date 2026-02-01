@@ -163,7 +163,7 @@ This toolchain uses the [Proven](https://github.com/hyperpolymath/proven) verifi
 
 ## License
 
-SPDX-License-Identifier: PMPL-1.0
+SPDX-License-Identifier: PMPL-1.0-or-later-or-later
 
 ## See Also
 
