@@ -3,8 +3,8 @@
 
 (ecosystem
  (version "1.0")
- (name "proven-malbolge-toolchain")
- (type "TODO: library|application|tool|framework")
+ (name "proven-malbolge-librarychain")
+ (type "library|application|tool|framework")
  (purpose "TODO: Brief purpose statement")
 
  (position-in-ecosystem
